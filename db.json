@@ -1,7 +1,10 @@
 {
     "githubUrl": "https://github.com/arrivabeni/disgust-quiz",
+    "url": "https://disgust-quiz.arrivabeni.vercel.app/",
+    "site_description": "Just a Disgust's quiz!",
+    "og_image": "/images/og_image.png",
     "bg": "/images/disgust.jpg",
-    "title": "Disgust's Quizz",
+    "title": "Disgust's Quiz",
     "description": "Can you imagine how disgusting the world can be?",
     "questions": [
       {
