@@ -1,11 +1,13 @@
 {
     "githubUrl": "https://github.com/arrivabeni/disgust-quiz",
     "url": "https://disgust-quiz.arrivabeni.vercel.app/",
-    "site_description": "Quiz da Nojinho! Você consegue imaginar como o mundo pode ser nojento?",
+    "site_description": "Você consegue imaginar como o mundo pode ser nojento?",
     "og_image": "/images/og_image.png",
     "bg": "/images/disgust.jpg",
     "title": "Quiz da Nojinho!",
     "description": "Você consegue imaginar como o mundo pode ser nojento?",
+    "name_placeholder": "Qual seu nome?",
+    "start_button_text": "Vamos jogar!",
     "questions": [
       {
         "image": "https://media.giphy.com/media/qnmRgewe8lVNC/giphy.gif",

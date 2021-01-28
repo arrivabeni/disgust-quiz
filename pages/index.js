@@ -53,11 +53,11 @@ export default function Home() {
               <Input
                 name="nameOfUser"
                 onChange={(e) => setName(e.target.value)}
-                placeholder="What's your name?"
+                placeholder={db.name_placeholder}
                 value={name}
               />
               <Button type="submit" disabled={name.length === 0}>
-                {'Let\'s play!'}
+                {db.start_button_text}
               </Button>
             </form>
           </Widget.Content>

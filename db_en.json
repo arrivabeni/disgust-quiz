@@ -6,6 +6,8 @@
     "bg": "/images/disgust.jpg",
     "title": "Disgust's Quiz",
     "description": "Can you imagine how disgusting the world can be?",
+    "name_placeholder": "What's your name?",
+    "start_button_text": "Let's play!",
     "questions": [
       {
         "image": "https://media.giphy.com/media/qnmRgewe8lVNC/giphy.gif",
