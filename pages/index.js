@@ -29,6 +29,8 @@ export default function Home() {
         <title>{db.title}</title>
         <meta name="title" content={db.title} />
         <meta name="description" content={db.site_description} />
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="icon" href="/favicon.ico" type="image/x-icon" />
 
         <meta property="og:type" content="website" />
         <meta property="og:url" content={db.url} />
